@@ -6,7 +6,7 @@ categories: blog
 tags: [programming,c++]
 description:none
 ---
-
+123.
 
 #key word break and continue
 
@@ -25,7 +25,7 @@ for(int i=0;i<9;i++){
 }
 ········
 ```
-
+i'm jack.
 #scope and storage duration, linkage 
 
 一个变量根据其声明的位置和方式，具有不同的scope（作用域）和storage duration（存储时间）
@@ -59,4 +59,5 @@ namespace john{
 using john::x;
 int x;//错误，本地已经有一个int x存在
 ```
+123。
 #未完待续
