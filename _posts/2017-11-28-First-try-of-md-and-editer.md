@@ -13,7 +13,7 @@ First try of Typora and markdown.
 <iostream>
 using namespace std;
 int main(void){
-  cout<<"This is amzing"
+  cout<<"This is amzing"；
 }
 ```
 - first 
