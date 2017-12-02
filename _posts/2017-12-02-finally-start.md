@@ -7,7 +7,7 @@ tags: [programming,c++]
 description:
 ---
 #1.key word break and continue
-  两者均用来跳过循环体中的语句执行，在细节也很容易搞懂，break用来跳出整个循环体（只有里break最近的一层），continue用来跳过一次循环中的剩下的语句，跳转到下一次循环的条件判断。
+两者均用来跳过循环体中的语句执行，在细节也很容易搞懂，break用来跳出整个循环体（只有里break最近的一层），continue用来跳过一次循环中的剩下的语句，跳转到下一次循环的条件判断。
 ```c++
 for(int i=0;i<9;i++){
   
