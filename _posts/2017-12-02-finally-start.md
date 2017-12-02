@@ -6,7 +6,7 @@ categories: blog
 tags: [programming,c++]
 description:
 ---
-#1.key word break and continue
+#key word break and continue
 两者均用来跳过循环体中的语句执行，在细节也很容易搞懂，break用来跳出整个循环体（只有里break最近的一层），continue用来跳过一次循环中的剩下的语句，跳转到下一次循环的条件判断。
 ```c++
 for(int i=0;i<9;i++){
@@ -22,7 +22,7 @@ for(int i=0;i<9;i++){
 }
 ········
 ```
-#2.scope and storage duration, linkage 
+#scope and storage duration, linkage 
 一个变量根据其声明的位置和方式，具有不同的scope（作用域）和storage duration（存储时间）
 
 | storages                     | storage   | duration | scope   | linkage          | declaration                              |
