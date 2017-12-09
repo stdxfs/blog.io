@@ -1,6 +1,6 @@
 ---
 internallayout: post
-title: 学习OOP之前
+title: OOP之前
 date: 2017-12-02
 categories: blog
 tags: [programming,c++]
