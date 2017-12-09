@@ -56,4 +56,4 @@ namespace john{
 using john::x;
 int x;//错误，本地已经有一个int x存在
 ```
-123。
+未完待续。
