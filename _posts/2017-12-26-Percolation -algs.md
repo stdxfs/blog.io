@@ -66,7 +66,5 @@ if(isOpen(row-1,col)&&row>1)
 
 - 实在理不清顺序时，一步一步 写下来过程
 
-  [作业代码贴在这]: https://github.com/stdxfs/algs-
-
-  ​
+  作业代码存在库里了https://github.com/stdxfs/algs-
 
