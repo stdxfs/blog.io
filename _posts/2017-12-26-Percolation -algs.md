@@ -59,9 +59,14 @@ if(isOpen(row-1,col)&&row>1)
  总结下这次作业的经验吧
 
 - 要注意 条件判断的先后 如果条件中涉及参数传递的 确定要传的参数在范围内  
+
 - 尽量把常用的运算用个方法包起来，更可读，也有利于debug
+
 - 测试数据要尽量多，完整。在造数据，造读数据方法 多花一点时间，debug就少花一堆时间。
+
 - 实在理不清顺序时，一步一步 写下来过程
 
-[code here]: https://github.com/stdxfs/algs-	"algs week1代码"
+  [作业代码贴在这]: https://github.com/stdxfs/algs-
+
+  ​
 
